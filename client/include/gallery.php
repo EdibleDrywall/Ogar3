@@ -2,7 +2,7 @@
 <div class="row center">
     <ul>
         <?php
-            $dirname = "../skins/";
+            $dirname = "client/skins/";
             $images = scandir($dirname);
             $ignore = array(".", "..");
             foreach($images as $curimg) {
