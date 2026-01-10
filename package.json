@@ -6,7 +6,7 @@
   "dependencies": {
     "burrow": "0.0.0",
     "finalhandler": "^0.3.6",
-    "serve-static": "^1.9.3",
+    "serve-static": "^1.16.3",
     "ws": "^0.7.2"
   },
   "scripts": {
